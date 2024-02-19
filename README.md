@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @merytpeters
-- 👀 Software engineer Student @Alx-SE @Holberton
-- 🌱 I’m currently learning to code and a newbie to coding
+- 👀 Software Engineer Student @Alx-SE @Holberton
+- 🌱 Programmer
 - 💞️ I’m looking to collaborate on any project,would love to get on medtech projects
 - 📫 How to reach me merytpeters@gmail.com
--  I just started my journey in Alx and very excited about
--  I am an anatomist,and a creative artist
--  I'm Nigerian 
+-  Very excited about this journey
+-  I am an anatomist and a creative artist
+-  Nigerian 
 - Genetics , bioinformatics
