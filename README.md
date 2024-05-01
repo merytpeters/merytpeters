@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @merytpeters
+- 👋 Hi, I’m Edafe Merit
 - 👀 Software Engineer Student @Alx-SE @Holberton
 - 🌱 Programmer
 - 💞️ I’m looking to collaborate on any project,would love to get on medtech projects
