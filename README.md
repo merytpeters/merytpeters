@@ -6,4 +6,3 @@
 -  Very excited about this journey
 -  I am an anatomist and a creative artist
 -  Nigerian 
-- Genetics , bioinformatics
