@@ -7,6 +7,7 @@ Welcome to my GitHub profile!
 Currently advancing my skills as a student at ALX Software Engineering and Holberton School.
 
 ### 🌱 Programmer
+**FullStack Developer**
 Passionate about learning, coding, and building impactful solutions.
 
 **💡 Interests**
