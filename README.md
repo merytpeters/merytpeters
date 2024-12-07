@@ -20,7 +20,6 @@ Let’s Connect
 
 🛠 Tech Stack
 Here are some of the tools and technologies I work with:
-
 Languages
 Python
 C
@@ -32,7 +31,7 @@ Django
 React
 CSS
 
-
 Other Tools
 Git
 VS Code
+Figma
