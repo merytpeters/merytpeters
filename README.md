@@ -4,6 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 **💻 Software Engineer in Training**
+
 Currently advancing my skills as a student at ALX Software Engineering and Holberton School.
 
 ### 🌱 Programmer
