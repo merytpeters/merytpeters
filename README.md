@@ -8,9 +8,11 @@ Currently advancing my skills as a student at ALX Software Engineering and Holbe
 
 ### 🌱 Programmer
 **FullStack Developer**
+
 Passionate about learning, coding, and building impactful solutions.
 
 **💡 Interests**
+
 I’m eager to collaborate on exciting projects, especially those in the healthtech space.
 
 ### 🎨 Creative by Nature
@@ -21,6 +23,7 @@ Sharing the resilience, creativity, and diversity of my roots.
 
 ### Let’s Connect
 📫 Email: merytpeters@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/edafemerit
 
 🚀 Excited about this journey!
