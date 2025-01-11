@@ -3,9 +3,9 @@
 Welcome to my GitHub profile!
 
 ## About Me
-**💻 Software Engineer in Training**
+**💻 Software Engineer**
 
-Currently advancing my skills as a student at ALX Software Engineering and Holberton School.
+Currently advancing my skills as a student at ALX Software Engineering (graduating - January 2025)
 
 ### 🌱 Programmer
 **FullStack Engineer**
