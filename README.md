@@ -1,16 +1,10 @@
 # Hi there, I’m Edafe Merit 👋
 
-Welcome to my GitHub profile!
+## 💻 Software Engineer | Full-Stack Developer
+🌱 Passionate about coding, learning, and building impactful solutions.
+🎓 ALX Software Engineering Graduate
 
-## About Me
-**💻 Software Engineer**
-
-Currently advancing my skills as a student at ALX Software Engineering (graduating - January 2025)
-
-### 🌱 Programmer
-**FullStack Engineer**
-
-Passionate about learning, coding, and building impactful solutions.
+🚀 Let's build something amazing!
 
 **💡 Interests**
 
@@ -21,13 +15,6 @@ A unique blend of anatomist and creative artist, driven to merge art, science, a
 
 **🌍 Proudly Nigerian**
 Sharing the resilience, creativity, and diversity of my roots.
-
-### Let’s Connect
-📫 Email: merytpeters@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/edafemerit
-
-🚀 Excited about this journey!
 
 ### 🛠 Tech Stack
 Here are some of the tools and technologies I work with:
