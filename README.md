@@ -13,9 +13,6 @@ I’m eager to collaborate on exciting projects, especially those in the healtht
 ### 🎨 Creative by Nature
 A unique blend of anatomist and creative artist, driven to merge art, science, and technology.
 
-**🌍 Proudly Nigerian**
-Sharing the resilience, creativity, and diversity of my roots.
-
 ### 🛠 Tech Stack
 Here are some of the tools and technologies I work with:
 
