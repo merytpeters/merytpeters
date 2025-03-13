@@ -10,9 +10,6 @@
 
 I’m eager to collaborate on exciting projects, especially those in the healthtech space.
 
-### 🎨 Creative by Nature
-A unique blend of anatomist and creative artist, driven to merge art, science, and technology.
-
 ### 🛠 Tech Stack
 Here are some of the tools and technologies I work with:
 
